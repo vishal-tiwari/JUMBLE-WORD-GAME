@@ -1,2 +1,2 @@
 # JUMBLE-WORD-GAME
-Basic mind game based on android.
+An educational and trivia android game.
