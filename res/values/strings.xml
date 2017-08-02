@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jumble Word</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="title_activity_service">ServiceActivity</string>
+    <string name="title_activity_jumble_service">JumbleService</string>
+
+</resources>
